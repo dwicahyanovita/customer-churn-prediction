@@ -22,6 +22,6 @@ Berikut adalah hasil evaluasi performa model menggunakan metrik **Accuracy**, **
 **Random Forest** menunjukkan performa terbaik dengan akurasi tertinggi dan keseimbangan yang baik antara precision dan recall.
 
 ## 💡 Kredit
-Made with ❤️ by Dwi Cahya Novita. Proyek ini adalah bagian dari kursus **Machine Learning untuk Pemula** yang diselenggarakan oleh **Dicoding**.
+Dwi Cahya Novita. Proyek ini adalah bagian dari kursus **Machine Learning untuk Pemula** yang diselenggarakan oleh **Dicoding**.
 
 ---
